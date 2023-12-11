@@ -1,5 +1,5 @@
 # 💫 About Me:
-Apaixonado por criar soluções inovadoras em desenvolvimento de <br>aplicações Web e colaboração em projetos de ponta a ponta. Minha <br>jornada profissional inclui trabalhar com tecnologias de ponta e <br>entregar produtos de alta qualidade para clientes em diversos setores.<br>Sou dedicado, autodidata e estou sempre em busca de aprendizado<br>contínuo para me manter atualizado nas mais recentes tendências<br>tecnológicas onde qualquer experiencia é sempre muito bem vinda.
+Apaixonado por criar soluções inovadoras em desenvolvimento de aplicações Web e colaboração em projetos de ponta a ponta. Minha jornada profissional inclui trabalhar com tecnologias de ponta e entregar produtos de alta qualidade para clientes em diversos setores.<br>Sou dedicado, autodidata e estou sempre em busca de aprendizado contínuo para me manter atualizado nas mais recentes tendências tecnológicas onde qualquer experiencia é sempre muito bem vinda.
 
 
 ## 🌐 Socials:
