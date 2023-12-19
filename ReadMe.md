@@ -1,5 +1,11 @@
 # 💫 About Me:
-Apaixonado por criar soluções inovadoras em desenvolvimento de aplicações Web e colaboração em projetos de ponta a ponta. Minha jornada profissional inclui trabalhar com tecnologias de ponta e entregar produtos de alta qualidade para clientes em diversos setores.<br>Sou dedicado, autodidata e estou sempre em busca de aprendizado contínuo para me manter atualizado nas mais recentes tendências tecnológicas onde qualquer experiencia é sempre muito bem vinda.
+Profissional de Suporte Técnico em Infraestrutura com 3 anos de experiência, especializado em fornecer suporte eficiente e solucionar problemas relacionados à infraestrutura de TI. Possuo habilidades sólidas em identificar e resolver questões técnicas, garantindo a estabilidade e segurança dos sistemas.
+
+Buscando uma transição de carreira para a área de Programação Web, trago uma base sólida em tecnologias de infraestrutura que complementará minha jornada como desenvolvedor. Ao longo da minha carreira, desenvolvi uma compreensão profunda dos fundamentos tecnológicos e das práticas de suporte, o que me confere uma perspectiva única na resolução de desafios de programação.
+
+Destaco minha motivação para aprender novas linguagens de programação, frameworks e tecnologias associadas à criação de aplicações web modernas. Busco oportunidades que me permitam aplicar minha experiência prévia de suporte técnico enquanto me aprimoro como desenvolvedor web, contribuindo para projetos inovadores e desafiadores.
+
+Estou comprometido com o crescimento profissional contínuo e determinado a adquirir as habilidades necessárias para prosperar na programação web. Sou apaixonado por enfrentar novos desafios, colaborar em equipe e contribuir para o desenvolvimento de soluções tecnológicas inovadoras.
 
 
 ## 🌐 Socials:
